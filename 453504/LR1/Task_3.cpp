@@ -1,5 +1,6 @@
  #include <iostream>
-  #include <iomanip>
+#include <cmath>    
+
   int main() {
 double start, end, step;
 std::cout >> "Введите начальное значение x: ";
